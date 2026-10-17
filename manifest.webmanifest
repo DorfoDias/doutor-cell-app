@@ -1,0 +1,16 @@
+{
+  "name": "Doutor Cell — Sistema de Gestão",
+  "short_name": "Doutor Cell",
+  "description": "Vendas, estoque, caixa e painel da loja Doutor Cell",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f5f6f8",
+  "theme_color": "#d81f26",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "icone-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icone-512.webp", "sizes": "512x512", "type": "image/webp", "purpose": "any maskable" }
+  ]
+}
